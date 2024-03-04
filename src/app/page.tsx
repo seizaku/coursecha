@@ -15,7 +15,7 @@ export default function Home() {
       </p>
       <Link
         href={"/get-started"}
-        className={cn(buttonVariants({ size: "lg" }), "my-4 rounded-full")}
+        className={cn(buttonVariants({ size: "lg" }), "my-4 rounded-xl")}
       >
         Generate a Learning Path
       </Link>
