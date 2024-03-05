@@ -1,4 +1,4 @@
-## Coursecha: Empowering Urban Microfarming through Personalized Learning 🌱
+# Coursecha: Empowering Urban Microfarming through Personalized Learning 🌱
 
 ### Introduction 🌿
 
