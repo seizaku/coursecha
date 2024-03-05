@@ -60,8 +60,6 @@ Bachelor of Science in Computer Science I Students
 <img src="https://1000logos.net/wp-content/uploads/2024/02/Gemini-Logo-500x281.png" height="100">
 <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="100" height="100">
 <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" width="100" height="100">
-<img src="https://i.ibb.co/g3dQS73/SVGRepo-icon-Carrier.png" width="100" height="100"> &nbsp;&nbsp;
-<img src="https://i.ibb.co/yPdT112/Group.png" width="100" height="100">
 <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" height="100">
 <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="100" height="100">
 <img src="https://blog.jeremylikness.com/blog/2019-03-05_typescript-for-javascript-developers-by-refactoring-part-1-of-2/images/1.jpeg" width="100" height="100">
