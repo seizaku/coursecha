@@ -51,6 +51,7 @@ Coursecha is licensed under the MIT License. Please refer to the `LICENSE` file 
 ### Team 🫶
 
 **Landrei Zerna** | **Vladimir Valeros II** | **Emman Nicholas Blabe Idulsa**
+  
   Bachelor of Science in Computer Science I Students
 
 ### Tech-Stack Used 🤖
@@ -64,6 +65,7 @@ Coursecha is licensed under the MIT License. Please refer to the `LICENSE` file 
 <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="100" height="100">
 <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="100" height="100">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" width="100" height="100">
-</div>\
+</div>
+
   
 **Together, let's empower volunteers and cultivate a future of sustainable agriculture!**
