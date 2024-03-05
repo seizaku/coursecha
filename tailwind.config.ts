@@ -83,6 +83,7 @@ const config = {
   plugins: [
     require("tailwindcss-animate"),
     "prettier-plugin-tailwindcss",
+    require('@tailwindcss/typography'),
     addVariablesForColors,
     function ({ matchUtilities, theme }: any) {
       matchUtilities(
