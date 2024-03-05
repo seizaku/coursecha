@@ -56,8 +56,8 @@ Coursecha is licensed under the MIT License. Please refer to the `LICENSE` file 
 
 ### Tech-Stack Used 🤖
 
-<div style="display: flex;">
-<img src="https://seeklogo.com/images/G/google-gemini-logo-A5787B2669-seeklogo.com.png" width="100" height="100">
+<div style="display: flex; gap: 5px">
+<img src="[https://seeklogo.com/images/G/google-gemini-logo-A5787B2669-seeklogo.com.png](https://vectorseek.com/wp-content/uploads/2023/12/Google-Gemini-Logo-Vector.svg-.png)" width="100" height="100">
 <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="100" height="100">
 <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" width="100" height="100">
 <img src="https://i.ibb.co/g3dQS73/SVGRepo-icon-Carrier.png" width="100" height="100"> &nbsp;&nbsp;
