@@ -62,10 +62,7 @@ Coursecha is licensed under the MIT License. Please refer to the `LICENSE` file 
 <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" width="100" height="100">
 <img src="https://i.ibb.co/g3dQS73/SVGRepo-icon-Carrier.png" width="100" height="100"> &nbsp;&nbsp;
 <img src="https://i.ibb.co/yPdT112/Group.png" width="100" height="100">
-<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="100" height="100">
+<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" height="100">
 <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="100" height="100">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" width="100" height="100">
 </div>
-
-  
-**Together, let's empower volunteers and cultivate a future of sustainable agriculture!**
