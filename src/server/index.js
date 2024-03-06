@@ -2,7 +2,6 @@ import Gemini from "./gemini.js";
 import express from "express";
 import cors from "cors";
 const app = express();
-const port = 5000;
 const corsOptions = {
   origin: "https://next-coursecha.vercel.app",
 };
@@ -149,7 +148,4 @@ app.get("/tutorials", async (req, res) => {
   res.send(response);
 });
 
-app.listen(port, () =>
-  console.log(`
-  🚀 Server ready at port: ${port}`),
-);
+app.listen(80, "0.0.0.0");
