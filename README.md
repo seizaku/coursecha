@@ -12,9 +12,11 @@ A study conducted by the University of the Philippines Los Baños revealed that 
 
 Coursecha is a web application that aims to revolutionize the learning experience of people who want to get into farming. This project is in collaboration with Kids Who Farm PH. The app leverages the power of Google Gemini to provide **personalized learning paths** and **interactive support**, empowering learners to **upskill themselves effectively in urban microfarming**.
 
+
 ## Overview 💡
 
 **This is an entry project for the "PSITS: Siklab - TechSolve" event,** Coursecha addresses the challenges faced by people who want to get into farming in acquiring the necessary skills due to a lack of **structured and personalized learning resources**. We believe Coursecha has the potential to make a significant impact on Kids Who Farm's mission and empower young Filipinos to become effective agents of change.
+
 
 ## Features 🧭
 
@@ -26,6 +28,7 @@ Coursecha is a web application that aims to revolutionize the learning experienc
     * **Google Gemini Technology:** Coursecha utilizes Google Gemini to power an intelligent chatbot that offers **interactive support and guidance** to volunteers throughout their learning journey.
     * **Real-time Assistance:** The chatbot addresses user queries, clarifies concepts, and provides additional learning resources, fostering a **dynamic and engaging learning environment**.
 
+
 ## Benefits ✨
 
 * **Personalized Learning:** Coursecha tailors the learning experience to each individual's needs and knowledge level, optimizing the learning process and ensuring efficient knowledge acquisition.
@@ -35,7 +38,8 @@ Coursecha is a web application that aims to revolutionize the learning experienc
 * **Improved Learning Outcomes:** By providing a structured and personalized learning environment, Coursecha empowers volunteers to achieve a deeper understanding of urban microfarming concepts and techniques.
 * **Enhanced Impact:** Ultimately, Coursecha's goal is to contribute to the success of KidsWhoFarm's mission by empowering volunteers to become effective agents of change in their communities.
 
-### Getting Started 🚀
+
+## Getting Started 🚀
 
 1. **Clone the Repository:**
    ```bash
@@ -52,17 +56,17 @@ Coursecha is a web application that aims to revolutionize the learning experienc
    npm run dev
    ```
 
-### License ⚖️
+## License ⚖️
 
 Coursecha is licensed under the MIT License. Please refer to the `LICENSE` file for details.
 
-### Team 🫶
+## Team 🫶
 
 **Landrei Zerna** | **Vladimir Valeros II** | **Emman Nicholas Blabe Idulsa**  
 Bachelor of Science in Computer Science I Students  
 *Western Mindanao State University - Zamboanga City*
 
-### Tech-Stack Used 🤖
+## Tech-Stack Used 🤖
 
 <div style="display: flex;">
 <img src="https://1000logos.net/wp-content/uploads/2024/02/Gemini-Logo-500x281.png" height="100">
