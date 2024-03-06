@@ -19,11 +19,11 @@ Coursecha is a web application that aims to revolutionize the learning experienc
 
 Coursecha's solution has the potential to address several UN Sustainable Development Goals (SDGs), particularly:
 
-0️⃣Hunger | **SDG 2: Zero Hunger:** By empowering young Filipinos to enter farming and providing them with the necessary knowledge and skills through online learning and AI-powered support, Coursecha can contribute to reducing food insecurity and increasing access to safe and nutritious food for Filipinos. 
+| --- | --- |
+| 0️⃣Hunger | **SDG 2: Zero Hunger:** By empowering young Filipinos to enter farming and providing them with the necessary knowledge and skills through online learning and AI-powered support, Coursecha can contribute to reducing food insecurity and increasing access to safe and nutritious food for Filipinos.  |
+| 📚🎒 | **SDG 4: Quality Education:** Coursecha provides accessible and quality education in urban micro farming through its online platform and personalized learning paths. |
+| ♻️ 🚮 | **SDG 12: Responsible Consumption and Production:** By promoting sustainable agricultural practices through urban micro farming, Coursecha can contribute to reducing food waste, promoting sustainable food production systems, and conserving resources. |
 
-📚🎒 | **SDG 4: Quality Education:** Coursecha provides accessible and quality education in urban micro farming through its online platform and personalized learning paths. 
-
-♻️ 🚮 | **SDG 12: Responsible Consumption and Production:** By promoting sustainable agricultural practices through urban micro farming, Coursecha can contribute to reducing food waste, promoting sustainable food production systems, and conserving resources.
 
 ## Features 🧭
 
