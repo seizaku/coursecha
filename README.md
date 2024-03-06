@@ -6,7 +6,7 @@ Coursecha is a web application that aims to revolutionize the learning experienc
 
 ### Overview 💡
 
-**As our entry project for the "PSITS: Siklab - TechSolve" event,** Coursecha addresses the challenges faced by KidsWhoFarm volunteers in acquiring the necessary skills due to a lack of **structured and personalized learning resources**. We believe Coursecha has the potential to make a significant impact on the organization's mission and empower volunteers to become effective agents of change.
+**This is an entry project for the "PSITS: Siklab - TechSolve" event,** Coursecha addresses the challenges faced by people who want to get into farming in acquiring the necessary skills due to a lack of **structured and personalized learning resources**. We believe Coursecha has the potential to make a significant impact on Kids Who Farm's mission and empower young Filipinos to become effective agents of change.
 
 ### Features 🧭
 
