@@ -2,7 +2,7 @@
 
 ## Introduction 🌿
 
-To this day, we only have less than 30 years before the possible collapse of earth's support systems (https://www.theworldcounts.com/challenges/state-of-the-planet/the-end-of-the-world) 
+According to [The World Counts] (https://www.theworldcounts.com/challenges/state-of-the-planet/the-end-of-the-world), this day, we only have less than 30 years before the possible collapse of earth's support systems 
 
 Nearly 51 million Filipinos face food insecurity. The Philippines had the highest number of moderately or severely food-insecure in the region, accounting for almost half of the 110.9 million total in Southeast Asia. (UN Report, 2023).
 
