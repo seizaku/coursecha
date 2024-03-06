@@ -1,1 +1,1 @@
-export const SERVER_URL: string = "http://localhost:3001";
+export const SERVER_URL: string = "https://next-coursecha.onrender.com";
