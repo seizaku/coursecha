@@ -9,11 +9,11 @@ export default function Home() {
     <GridDotContainer>
       <BrandName />
       <p className="w-4/6 text-center text-sm text-muted-foreground lg:text-lg">
-        Cultivate your future: Learn to micro-farm with{" "}
+        Inspiring future farmers: Learn to micro-farm with{" "}
         <span className="font-semibold text-green-300">KidsWhoFarm</span>
       </p>
       <Link
-        href={"/get-started"}
+        href={"/auth"}
         className={cn(buttonVariants({ size: "lg" }), "my-4 rounded-xl")}
       >
         Generate a Learning Path
