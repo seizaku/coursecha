@@ -80,7 +80,7 @@ export default function RoadmapPage() {
                           <Badge
                             variant="secondary"
                             key={`keyword-${index}`}
-                            className="text-[10px]"
+                            className="text-xs"
                           >
                             {keyword}
                           </Badge>
