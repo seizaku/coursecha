@@ -10,7 +10,7 @@ const corsOptions = {
 app.use(cors(corsOptions));
 
 app.get("/", (req, res) => {
-  res.send("Hello World!");
+  res.send({ response: "Hello World!" });
 });
 
 app.get("/roadmap", async (req, res) => {
