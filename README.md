@@ -1,6 +1,6 @@
 # Coursecha: Empowering Urban Microfarming through Personalized Learning 🌱
 
-### Introduction 🌿
+## Introduction 🌿
 
 To this day, we only have less than 30 years before the possible collapse of earth's support systems (https://www.theworldcounts.com/challenges/state-of-the-planet/the-end-of-the-world) 
 
@@ -12,11 +12,11 @@ A study conducted by the University of the Philippines Los Baños revealed that 
 
 Coursecha is a web application that aims to revolutionize the learning experience of people who want to get into farming. This project is in collaboration with Kids Who Farm PH. The app leverages the power of Google Gemini to provide **personalized learning paths** and **interactive support**, empowering learners to **upskill themselves effectively in urban microfarming**.
 
-### Overview 💡
+## Overview 💡
 
 **This is an entry project for the "PSITS: Siklab - TechSolve" event,** Coursecha addresses the challenges faced by people who want to get into farming in acquiring the necessary skills due to a lack of **structured and personalized learning resources**. We believe Coursecha has the potential to make a significant impact on Kids Who Farm's mission and empower young Filipinos to become effective agents of change.
 
-### Features 🧭
+## Features 🧭
 
 * **Adaptive Learning:**
     * **Assessment Module:** Evaluates a user's existing knowledge and understanding of urban microfarming concepts.
@@ -26,7 +26,7 @@ Coursecha is a web application that aims to revolutionize the learning experienc
     * **Google Gemini Technology:** Coursecha utilizes Google Gemini to power an intelligent chatbot that offers **interactive support and guidance** to volunteers throughout their learning journey.
     * **Real-time Assistance:** The chatbot addresses user queries, clarifies concepts, and provides additional learning resources, fostering a **dynamic and engaging learning environment**.
 
-### Benefits ✨
+## Benefits ✨
 
 * **Personalized Learning:** Coursecha tailors the learning experience to each individual's needs and knowledge level, optimizing the learning process and ensuring efficient knowledge acquisition.
 * **Structured Learning Path:** The visual flowchart provides a clear roadmap for learning, keeping volunteers focused and motivated on their journey towards becoming skilled urban microfarmers.
