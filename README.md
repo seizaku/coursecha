@@ -8,7 +8,7 @@ Nearly 51 million Filipinos face food insecurity. The Philippines had the highes
 
 Approximately 40% of Zamboanga City’s supply of vegetables is domestically grown, while the remaining 60% is imported from across the country. [(WWF-Philippines)](https://www.wwf.org.ph/our_work/sustainable_production/sustainable_food_systems/?146776/Food-shed-rises-in-Zamboanga-City-to-combat-poverty-hunger-amidst-the-pandemic).
 
-A study conducted by the University of the Philippines Los Baños revealed that the average age of Filipino farmers is 53 years old.
+A study conducted by the [University of the Philippines Los Baños](https://www.researchgate.net/publication/358347223_Aging_Filipino_Rice_Farmers_and_Their_Aspirations_for_Their_Children) revealed that the average age of Filipino farmers is 53 years old.
 
 Coursecha is a web application that aims to revolutionize the learning experience of people who want to get into farming. This project is in collaboration with Kids Who Farm PH. The app leverages the power of Google Gemini to provide **personalized learning paths** and **interactive support**, empowering learners to **upskill themselves effectively in urban microfarming**.
 
