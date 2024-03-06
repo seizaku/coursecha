@@ -2,6 +2,14 @@
 
 ### Introduction 🌿
 
+To this day, we only have less than 30 years before the possible collapse of earth's support systems (https://www.theworldcounts.com/challenges/state-of-the-planet/the-end-of-the-world) 
+
+Nearly 51 million Filipinos face food insecurity. The Philippines had the highest number of moderately or severely food-insecure in the region, accounting for almost half of the 110.9 million total in Southeast Asia. (UN Report, 2023).
+
+Approximately 40% of Zamboanga City’s supply of vegetables is domestically grown, while the remaining 60% is imported from across the country. (WWF-Philippines).
+
+A study conducted by the University of the Philippines Los Baños revealed that the average age of Filipino farmers is 53 years old.
+
 Coursecha is a web application that aims to revolutionize the learning experience of people who want to get into farming. This project is in collaboration with Kids Who Farm PH. The app leverages the power of Google Gemini to provide **personalized learning paths** and **interactive support**, empowering learners to **upskill themselves effectively in urban microfarming**.
 
 ### Overview 💡
