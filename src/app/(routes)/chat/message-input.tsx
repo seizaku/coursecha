@@ -30,7 +30,7 @@ export const MessageInput = ({ chat_data }: Props) => {
       });
       const chat_context = `${chat_history?.join(" ")} \nUser: ${message}`;
       const res = await fetch(
-        `http://localhost:3001/chat?message=${encodeURIComponent(chat_context)}`,
+        `${process.env.SERVER_URL}/chat?message=${encodeURIComponent(chat_context)}`,
         {
           mode: "cors",
         },

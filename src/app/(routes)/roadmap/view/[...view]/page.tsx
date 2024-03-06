@@ -39,7 +39,7 @@ export default function ViewModulePage({ ...view }: any) {
     const data = roadmap?.roadmap[stage_key].tasks[task_key];
     Promise.all([
       await fetch(
-        `http://localhost:3001/content?data=${encodeURIComponent(JSON.stringify(data))}`,
+        `${process.env.SERVER_URL}/content?data=${encodeURIComponent(JSON.stringify(data))}`,
         {
           mode: "cors",
         },
@@ -50,7 +50,7 @@ export default function ViewModulePage({ ...view }: any) {
           setLoadingContent(false);
         }),
       await fetch(
-        `http://localhost:3001/tutorials?data=${encodeURIComponent(JSON.stringify(data.keywords))}`,
+        `${process.env.SERVER_URL}/tutorials?data=${encodeURIComponent(JSON.stringify(data.keywords))}`,
         {
           mode: "cors",
         },

@@ -43,7 +43,7 @@ export const QuizForm = () => {
   async function onSubmit(data: z.infer<typeof FormSchema>) {
     setLoading(true);
     const roadmap = await fetch(
-      `http://127.0.0.1:3001/roadmap?data=${encodeURIComponent(JSON.stringify(data))}`,
+      `${process.env.SERVER_URL}/roadmap?data=${encodeURIComponent(JSON.stringify(data))}`,
       {
         mode: "cors",
       },
