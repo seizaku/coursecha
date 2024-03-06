@@ -29,7 +29,6 @@ Coursecha's solution has the potential to address several UN Sustainable Develop
 ## Features 🧭
 
 * **Adaptive Learning:**
-    * **Assessment Module:** Evaluates a user's existing knowledge and understanding of urban microfarming concepts.
     * **Personalized Learning Path:** Based on the assessment results, Coursecha generates a unique learning path tailored to the individual's needs. This path is visualized as a **clear and concise flowchart** outlining the learning journey.
     * **Step-by-Step Guidance:** Each step in the learning path provides access to relevant **learning materials**, including text, video, and interactive tutorials, ensuring a comprehensive understanding of each topic.
 * **AI-powered Chatbot Integration:**
@@ -42,9 +41,8 @@ Coursecha's solution has the potential to address several UN Sustainable Develop
 * **Personalized Learning:** Coursecha tailors the learning experience to each individual's needs and knowledge level, optimizing the learning process and ensuring efficient knowledge acquisition.
 * **Structured Learning Path:** The visual flowchart provides a clear roadmap for learning, keeping volunteers focused and motivated on their journey towards becoming skilled urban microfarmers.
 * **Interactive Support:** The AI-powered chatbot offers continuous support and guidance, addressing user queries and fostering a more engaging learning experience.
-* **Increased Volunteer Engagement:** Coursecha's personalized and interactive approach is designed to keep volunteers engaged and motivated throughout their learning journey.
-* **Improved Learning Outcomes:** By providing a structured and personalized learning environment, Coursecha empowers volunteers to achieve a deeper understanding of urban microfarming concepts and techniques.
-* **Enhanced Impact:** Ultimately, Coursecha's goal is to contribute to the success of KidsWhoFarm's mission by empowering volunteers to become effective agents of change in their communities.
+* **Improved Learning Outcomes:** By providing a structured and personalized learning environment, Coursecha empowers young Filipinos to achieve a deeper understanding of urban microfarming concepts and techniques.
+* **Enhanced Impact:** Ultimately, Coursecha's goal is to contribute to the success of Kids Who Farm's mission by having more young Filipinos be part of the farming solution.
 
 
 ## Getting Started 🚀
