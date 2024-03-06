@@ -2,7 +2,7 @@
 
 ### Introduction 🌿
 
-Coursecha is a web application designed to revolutionize the learning experience for volunteers working with the "KidsWhoFarm" non-profit organization. This app leverages the power of Google Gemini to provide **personalized learning paths** and **interactive support**, empowering volunteers to **upskill themselves effectively in urban microfarming**.
+Coursecha is a web application that aims to revolutionize the learning experience of people who want to get into farming. This project is in collaboration with Kids Who Farm PH. The app leverages the power of Google Gemini to provide **personalized learning paths** and **interactive support**, empowering learners to **upskill themselves effectively in urban microfarming**.
 
 ### Overview 💡
 
