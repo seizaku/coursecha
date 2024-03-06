@@ -92,7 +92,7 @@ export const QuizForm = () => {
                       <RadioGroupItem value="beginner" />
                     </FormControl>
                     <FormLabel className="font-normal">
-                      I'm a complete beginner
+                      I&apos;m a complete beginner
                     </FormLabel>
                   </FormItem>
                   <FormItem className="flex items-center space-x-3 space-y-0">
@@ -107,7 +107,9 @@ export const QuizForm = () => {
                     <FormControl>
                       <RadioGroupItem value="advanced" />
                     </FormControl>
-                    <FormLabel className="font-normal">I'm an expert</FormLabel>
+                    <FormLabel className="font-normal">
+                      I&apos;m an expert
+                    </FormLabel>
                   </FormItem>
                 </RadioGroup>
               </FormControl>
@@ -152,7 +154,7 @@ export const QuizForm = () => {
                       <RadioGroupItem value="required to do so" />
                     </FormControl>
                     <FormLabel className="font-normal">
-                      I'm required to do so
+                      I&apos;m required to do so
                     </FormLabel>
                   </FormItem>
                 </RadioGroup>
