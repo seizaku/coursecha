@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button";
 import { AppendChat } from "@/server-actions/chat";
 import { useState } from "react";
 import { PiArrowUpBold } from "react-icons/pi";
+import { SERVER_URL } from "@/config/site-url";
 
 export type ChatDataType = {
   uid: string;
@@ -30,7 +31,7 @@ export const MessageInput = ({ chat_data }: Props) => {
       });
       const chat_context = `${chat_history?.join(" ")} \nUser: ${message}`;
       const res = await fetch(
-        `${process.env.SERVER_URL}/chat?message=${encodeURIComponent(chat_context)}`,
+        `${SERVER_URL}/chat?message=${encodeURIComponent(chat_context)}`,
         {
           mode: "cors",
         },

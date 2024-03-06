@@ -17,7 +17,7 @@ import {
 } from "@/components/ui/carousel";
 import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
-import { TracingBeam } from "@/components/ui/tracing-beam";
+import { SERVER_URL } from "@/config/site-url";
 
 export default function ViewModulePage({ ...view }: any) {
   const [api, setApi] = useState<CarouselApi>();
@@ -39,7 +39,7 @@ export default function ViewModulePage({ ...view }: any) {
     const data = roadmap?.roadmap[stage_key].tasks[task_key];
     Promise.all([
       await fetch(
-        `${process.env.SERVER_URL}/content?data=${encodeURIComponent(JSON.stringify(data))}`,
+        `${SERVER_URL}/content?data=${encodeURIComponent(JSON.stringify(data))}`,
         {
           mode: "cors",
         },
@@ -50,7 +50,7 @@ export default function ViewModulePage({ ...view }: any) {
           setLoadingContent(false);
         }),
       await fetch(
-        `${process.env.SERVER_URL}/tutorials?data=${encodeURIComponent(JSON.stringify(data.keywords))}`,
+        `${SERVER_URL}/tutorials?data=${encodeURIComponent(JSON.stringify(data.keywords))}`,
         {
           mode: "cors",
         },

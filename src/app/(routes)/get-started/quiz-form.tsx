@@ -17,6 +17,7 @@ import { Button } from "@/components/ui/button";
 import { CreateRoadmap } from "@/server-actions/roadmap";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
+import { SERVER_URL } from "@/config/site-url";
 
 const FormSchema = z.object({
   experience: z.enum(["beginner", "intermediate", "advanced"], {
@@ -42,8 +43,11 @@ export const QuizForm = () => {
 
   async function onSubmit(data: z.infer<typeof FormSchema>) {
     setLoading(true);
+    console.log(
+      `${SERVER_URL}/roadmap?data=${encodeURIComponent(JSON.stringify(data))}`,
+    );
     const roadmap = await fetch(
-      `${process.env.SERVER_URL}/roadmap?data=${encodeURIComponent(JSON.stringify(data))}`,
+      `${SERVER_URL}/roadmap?data=${encodeURIComponent(JSON.stringify(data))}`,
       {
         mode: "cors",
       },
