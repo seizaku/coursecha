@@ -4,7 +4,7 @@
 
 According to [The World Counts](https://www.theworldcounts.com/challenges/state-of-the-planet/the-end-of-the-world), this day, we only have less than 30 years before the possible collapse of earth's support systems 
 
-Nearly 51 million Filipinos face food insecurity. The Philippines had the highest number of moderately or severely food-insecure in the region, accounting for almost half of the 110.9 million total in Southeast Asia. (UN Report, 2023).
+Nearly 51 million Filipinos face food insecurity. The Philippines had the highest number of moderately or severely food-insecure in the region, accounting for almost half of the 110.9 million total in Southeast Asia. [(UN Report, 2023)](https://foodbank.org.ph/nearly-51m-filipinos-face-food-insecurity-un-report/).
 
 Approximately 40% of Zamboanga City’s supply of vegetables is domestically grown, while the remaining 60% is imported from across the country. (WWF-Philippines).
 
