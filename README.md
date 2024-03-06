@@ -6,7 +6,7 @@ According to [The World Counts](https://www.theworldcounts.com/challenges/state-
 
 Nearly 51 million Filipinos face food insecurity. The Philippines had the highest number of moderately or severely food-insecure in the region, accounting for almost half of the 110.9 million total in Southeast Asia. [(UN Report, 2023)](https://foodbank.org.ph/nearly-51m-filipinos-face-food-insecurity-un-report/).
 
-Approximately 40% of Zamboanga City’s supply of vegetables is domestically grown, while the remaining 60% is imported from across the country. (WWF-Philippines).
+Approximately 40% of Zamboanga City’s supply of vegetables is domestically grown, while the remaining 60% is imported from across the country. [(WWF-Philippines)](https://www.wwf.org.ph/our_work/sustainable_production/sustainable_food_systems/?146776/Food-shed-rises-in-Zamboanga-City-to-combat-poverty-hunger-amidst-the-pandemic).
 
 A study conducted by the University of the Philippines Los Baños revealed that the average age of Filipino farmers is 53 years old.
 
