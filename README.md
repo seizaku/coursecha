@@ -72,6 +72,7 @@ Coursecha is licensed under the MIT License. Please refer to the `LICENSE` file 
 | **Landrei Zerna** | **Vladimir Valeros II** | **Emman Nicholas Blabe Idulsa** |
 | ------------- | ------------- | ------------- |
 | [Linkedin](https://www.linkedin.com/in/landrei-zerna/) | [Linkedin](https://www.linkedin.com/in/emman-i-2137762a3/) | [Linkedin](https://www.linkedin.com/in/vladimir-valeros-ii/) |
+<br>
 Bachelor of Science in Computer Science Students  
 *Western Mindanao State University - Zamboanga City*
 
